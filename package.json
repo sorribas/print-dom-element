@@ -1,0 +1,25 @@
+{
+  "name": "print-dom-element",
+  "version": "1.0.0",
+  "description": "Print a dom element",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sorribas/print-dom-element"
+  },
+  "keywords": [
+    "print",
+    "element",
+    "dom",
+    "browser"
+  ],
+  "author": "Eduardo Sorribas <eduardo@sorribas.org> (http://sorribas.org/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sorribas/print-dom-element/issues"
+  },
+  "homepage": "https://github.com/sorribas/print-dom-element"
+}
