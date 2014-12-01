@@ -1,7 +1,7 @@
 print-dom-element
 =============
 
-npm module to print an HTML element.
+npm module to print an HTML element. To be used with browserify.
 
 Install
 -------
